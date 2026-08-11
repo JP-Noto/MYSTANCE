@@ -6,7 +6,7 @@ MYSTANCE est un corpus de règles écrites, pas un logiciel : rien à installer 
 
 [English version](README.md) · si les deux divergent, le corpus français fait foi.
 
-`Statut : brouillon public (Public Draft)` · `Spec : v0.3` · `Licence : CC BY-NC-SA 4.0 + clause contenant/contenu`
+`Statut : Public Draft` · `Spec : v0.3` · `Licence : CC BY-NC-SA 4.0 + clause contenant/contenu`
 
 > MYSTANCE, prononcé **Maï-stance**. Garder la maîtrise dans un monde augmenté par l'IA.
 
