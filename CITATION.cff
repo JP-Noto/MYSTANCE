@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you cite this doctrine, please cite it as below. The French corpus is authoritative."
+title: "MYSTANCE: the human layer of AI systems"
+authors:
+  - family-names: "Noto"
+    given-names: "Julien-Pierre"
+    alias: "JP Noto"
+version: "0.3.1"
+date-released: "2026-08-11"
+license: CC-BY-NC-SA-4.0
+abstract: >-
+  MYSTANCE is a doctrine for the human-AI relationship: a tuned relationship
+  with one cardinal parameter, the assistance level, set on four named
+  behavioral-contract levels on a closed scale (mediation to framed
+  generation: never zero mediation, never 100% AI production); a second
+  orthogonal parameter, the stance (how the assistant carries itself, from a
+  closed list); a canonical scaffolding pattern ("3 proposals + free
+  choice"); locked templates (structure owned by the doctrine, content owned
+  by the user); and user-owned, deferrable assistant naming. The level
+  modulates how much the AI proposes, never who decides.
+keywords:
+  - human-AI interaction
+  - assistance level
+  - AI adoption
+  - user sovereignty
+  - locked templates
+repository-code: "https://github.com/JP-Noto/MYSTANCE"
