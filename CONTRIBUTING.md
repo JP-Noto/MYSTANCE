@@ -47,6 +47,16 @@ aux sept fiches du corpus. Les deux couches partagent la même discipline d'écr
 
 Les documents normatifs et d'étude (SPEC, WHITEPAPER, LINEAGE, journaux d'antériorité) portent leur statut (`proposé / validé`) et leur date ; les fiches et templates portent leur statut. Les statuts et les révisions datées restent des décisions d'auteur. « Validé » est une décision éditoriale : elle atteste la cohérence et l'exactitude arrêtées d'un texte, jamais l'efficacité d'un mécanisme, qui relève des rangs de preuve ([SPEC § 10](SPEC.md)) et ne s'attestera qu'au terrain.
 
-Toute contribution acceptée est créditée. La licence du dépôt s'applique ([LICENSE](LICENSE.md)).
+Toute contribution acceptée est créditée. La licence du dépôt s'applique ([LICENSE](LICENSE.md)),
+et le régime des contributions est déclaré d'avance, pour que personne ne le découvre :
+
+- une idée, un contre-exemple ou une critique proposés **par issue** sont intégrés sous la plume
+  de l'auteur, et crédités ;
+- un texte proposé **par pull request** emporte, s'il est accepté, l'accord de son contributeur
+  pour que le titulaire du corpus l'intègre, le modifie et le licencie avec l'ensemble, y compris
+  dans les accords écrits que la clause non commerciale réserve. Le contributeur reste crédité,
+  et reste libre de réutiliser son propre texte ailleurs.
+
+Une contribution qui ne souhaite pas ce régime reste une issue : elle éclaire sans entrer.
 
 Merci de votre lecture, et de vos objections : ce corpus n'apprendra pas sans elles.
