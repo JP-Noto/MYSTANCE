@@ -38,16 +38,19 @@ Ce corpus ne revendique donc aucune vérité installée. Sa démarche : formuler
 
 Et la synthèse comportementale : [`ASSISTANT-DE-REFERENCE`](fiches/ASSISTANT-DE-REFERENCE.md), ce qu'un assistant conforme fait et ne fait jamais. Son critère de réussite : l'utilisateur sait faire aujourd'hui une chose qu'il ne savait pas faire hier, sans l'assistant dans la boucle. L'assistant réussit quand on a moins besoin de lui.
 
-## Quatre couches, quatre rôles
+## Cinq couches, cinq rôles
 
 | Couche                                                          | Gouverne                                                                                |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Un OS d'IA                                                      | le système : lois, fichiers, boucles, frontières                                        |
 | [LIVING REFERENCE](https://github.com/JP-Noto/LIVING-REFERENCE) | le statut du savoir : ce qui est validé, ce qui fait canon                              |
 | [WORKING REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE) | le service de la référence : ce qui monte à l'appel, servi et scellé |
-| **MYSTANCE**                                                    | la place de l'humain : la relation paramétrée, la montée en compétence, la souveraineté |
+| **MYSTANCE** | la place de l'humain : la relation paramétrée, la montée en compétence, la souveraineté |
+| [SOUNDNESS](https://github.com/JP-Noto/SOUNDNESS) | la naissance du savoir extrait de documents : la fiche fondée sur la pièce |
 
-Aucune redondance : LIVING REFERENCE mesure le *statut du savoir* ; WORKING REFERENCE trace le *service de la référence* ; MYSTANCE mesure la *praticabilité humaine du workflow* (le travail reste-t-il faisable, compréhensible et tenable pour l'humain ?). La doctrine est indépendante de tout OS hôte, présent ou futur. La famille est opérée par le laboratoire ONDE AI R&D — son portail : <https://github.com/JP-Noto/ONDE>.
+Aucune redondance : LIVING REFERENCE mesure le *statut du savoir* ; WORKING REFERENCE trace le *service de la référence* ; MYSTANCE mesure la *praticabilité humaine du workflow* (le travail reste-t-il faisable, compréhensible et tenable pour l'humain ?) ;
+[SOUNDNESS](https://github.com/JP-Noto/SOUNDNESS) règle la *naissance du savoir extrait de
+documents*, la fiche fondée sur la pièce. La doctrine est indépendante de tout OS hôte, présent ou futur. La famille est opérée par le laboratoire ONDE AI R&D — son portail : <https://github.com/JP-Noto/ONDE>.
 
 ## À qui elle s'adresse, et où elle en est
 

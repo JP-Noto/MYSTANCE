@@ -33,7 +33,8 @@ Six principes fondateurs portent la doctrine. Ils sont nés hors de ce dépôt, 
 5. **La souveraineté jusqu'à l'individu.** Décisions, méthodes, contenu des templates : l'utilisateur reste maître, jusqu'au niveau individuel de l'information qu'il confie à la relation (M2, M3, V2, V5, N7). Périmètre déclaré : le stockage, l'accès technique et la conformité au droit restent hors du domaine de la doctrine ([fiche VOS-DONNEES-ET-VOS-RESPONSABILITES](fiches/VOS-DONNEES-ET-VOS-RESPONSABILITES.md)).
 6. **L'autonomie se mesure et se transmet.** Le système atteste la montée en compétence ; les utilisateurs avancés deviennent des relais humains. La boucle finale est humaine : c'est voulu. *(Ce principe n'a aucune règle au socle : l'attestation se heurte à N7 et à DM7, tension déclarée et non résolue ; voir la [fiche ASSISTANT-DE-REFERENCE](fiches/ASSISTANT-DE-REFERENCE.md).)*
 
-Quatre couches, quatre rôles, aucune redondance : un OS d'IA gouverne le système ; LIVING REFERENCE gouverne le statut du savoir ; [WORKING REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE) gouverne le service de la référence au travail en cours : ce qui monte à l'appel, servi et scellé ; MYSTANCE gouverne la place de l'humain. LIVING REFERENCE mesure le *statut du savoir* ; MYSTANCE mesure la *praticabilité humaine du workflow*.
+Cinq couches, cinq rôles, aucune redondance : un OS d'IA gouverne le système ; LIVING REFERENCE gouverne le statut du savoir ; [WORKING REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE) gouverne le service de la référence au travail en cours : ce qui monte à l'appel, servi et scellé ; MYSTANCE gouverne la place de l'humain ; [SOUNDNESS](https://github.com/JP-Noto/SOUNDNESS) gouverne
+la naissance du savoir extrait de documents. LIVING REFERENCE mesure le *statut du savoir* ; MYSTANCE mesure la *praticabilité humaine du workflow*.
 
 ## 3. Le niveau d'assistance (règles N)
 

@@ -40,7 +40,7 @@ This corpus therefore claims no settled truth. Its method: state realistic hypot
 
 Plus the behavioral synthesis: [`ASSISTANT-DE-REFERENCE`](fiches/ASSISTANT-DE-REFERENCE.md), what a conforming assistant does, and never does. Its success criterion: the user can do today something they could not do yesterday, **without the assistant in the loop**. The assistant succeeds when it is needed less.
 
-## Four layers, four roles
+## Five layers, five roles
 
 | Layer | Governs |
 |---|---|
@@ -48,8 +48,11 @@ Plus the behavioral synthesis: [`ASSISTANT-DE-REFERENCE`](fiches/ASSISTANT-DE-RE
 | [LIVING REFERENCE](https://github.com/JP-Noto/LIVING-REFERENCE) | the status of knowledge: what is validated, what is canon |
 | [WORKING REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE) | how the reference serves the work: what reaches the call, served and sealed |
 | **MYSTANCE** | the human's place: the tuned relationship, skill growth, sovereignty |
+| [SOUNDNESS](https://github.com/JP-Noto/SOUNDNESS) | the birth of document-extracted knowledge: the record grounded in its source piece |
 
-No redundancy: LIVING REFERENCE measures the *status of knowledge*; WORKING REFERENCE traces the *serving of the reference*; MYSTANCE measures the *human practicability of the workflow* (does the work stay doable, understandable and sustainable for the human?). The doctrine is independent of any host OS, present or future. The family is operated by the ONDE AI R&D laboratory — its portal: <https://github.com/JP-Noto/ONDE>.
+No redundancy: LIVING REFERENCE measures the *status of knowledge*; WORKING REFERENCE traces the *serving of the reference*; MYSTANCE measures the *human practicability of the workflow* (does the work stay doable, understandable and sustainable for the human?);
+[SOUNDNESS](https://github.com/JP-Noto/SOUNDNESS) governs the *birth of document-extracted
+knowledge*, the record grounded in its source piece. The doctrine is independent of any host OS, present or future. The family is operated by the ONDE AI R&D laboratory — its portal: <https://github.com/JP-Noto/ONDE>.
 
 ## Who it is for, and where it stands
 

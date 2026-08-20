@@ -4,7 +4,10 @@
 
 Document normatif : les règles, sans leur justification. Le pourquoi de chaque règle est au [whitepaper](WHITEPAPER.md). « DOIT » et « NE DOIT PAS » se lisent au sens de la RFC 2119.
 
-MYSTANCE est la couche humaine des systèmes d'IA : elle norme la **relation** entre un humain et l'assistant qui l'accompagne. Elle ne norme ni le système (rôle de l'OS hôte), ni le statut du savoir (rôle de [LIVING REFERENCE](https://github.com/JP-Noto/LIVING-REFERENCE)), ni le service de la référence au travail en cours (rôle de [WORKING REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE)) : quatre couches, quatre rôles, aucune redondance.
+MYSTANCE est la couche humaine des systèmes d'IA : elle norme la **relation** entre un humain et l'assistant qui l'accompagne. Elle ne norme ni le système (rôle de l'OS hôte), ni le statut du savoir (rôle de [LIVING REFERENCE](https://github.com/JP-Noto/LIVING-REFERENCE)), ni le service de la référence au travail en cours (rôle de [WORKING
+REFERENCE](https://github.com/JP-Noto/WORKING-REFERENCE)), ni la naissance du savoir extrait de
+documents (rôle de [SOUNDNESS](https://github.com/JP-Noto/SOUNDNESS)) : cinq couches, cinq rôles,
+aucune redondance.
 
 ## 1. Termes
 

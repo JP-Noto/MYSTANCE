@@ -2,6 +2,11 @@
 
 ## [Unreleased]
 
+- **The layer map now carries SOUNDNESS, fifth layer**: the birth of document-extracted
+  knowledge, the record founded on its source piece. The cadet corpus has been public since
+  2026-08-20. Both READMEs, the SPEC scope sentence and the whitepaper move from four layers to
+  five. No rule changes: the map gains a row, the doctrine does not move.
+
 - **CONTRIBUTING**: the contribution regime is now declared upfront. Ideas, counter-examples and
   critiques arrive as issues and are integrated under the author's pen, credited; text accepted
   through a pull request carries the contributor's grant to integrate, modify and license it with
